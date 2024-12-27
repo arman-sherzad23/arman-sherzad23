@@ -19,9 +19,13 @@
 # My Projects
 
 ### Silkroad E-Books
-[![Silkroad Care](img1.png)](https://github.com/arman-sherzad23/silkroad.care)
+[![Silkroad Care](img.png)](https://github.com/arman-sherzad23/silkroad.care)
+
+### Google Gemini clone
+[![Silkroad Care](img3.png)](https://github.com/arman-sherzad23/silkroad.care)
+
 ### Infinite Learning
-[![Infinite Learning](image.png)](https://github.com/arman-sherzad23/Infinite-Learning)
+[![Infinite Learning](img2.png)](https://github.com/arman-sherzad23/Infinite-Learning)
 
 <code><a href="https://facebook.com/arman.sherzad47" target="_blank"><img height="50" alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook.png"></a></code>
 <code><a href="https://x.com/Arman_sherzad23?t=t8OKQs5gqc7G5lzVKIVaxg&s=09" target="_blank"><img height="50" alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png"></a></code>
